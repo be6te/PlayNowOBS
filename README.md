@@ -37,10 +37,6 @@ http://localhost:7777/
 #### The server is started on a local host on port `7777` and must be started here `http://localhost:7777/` to authenticate with [OAuth](https://developer.spotify.com/documentation/web-api/concepts/authorization) and make use of NowPlayOBS.
 #### OBS / Streamlabs
 
-```txt
-http://localhost:7777/playing
-```
-
 #### If everything works you will see the song you are listening to on spotify and to display it on OBS or Streamlabs is as simple as copying the URL and pasting it as follows
 #### Preview (Browser):
 ![page](https://i.imgur.com/J1TGBdF.png)
